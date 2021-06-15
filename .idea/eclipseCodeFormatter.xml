@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../Eclipse Formatter/eclipse-formatter.xml" />
+        <option name="selectedJavaProfile" value="Netcentric" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1501788160583" />
+        <option name="name" value="Netcentric" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/workspace/ubs/internet/ubs-internet-fit/config/eclipse-formatter.xml" />
+        <option name="selectedJavaProfile" value="Netcentric" />
+      </Settings>
+    </option>
+  </component>
+</project>
